@@ -1,4 +1,4 @@
-# Ali Shinde — Backend • AI/ML • Data Viz
+# Backend, Applied ML, DevOPS & MLOps
 
 Helping teams ship reliable APIs, ML-powered summarization, and clear data stories.
 
